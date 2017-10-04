@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    font-family: 'Comic sans, Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Calibri, Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .text-vertical-center {
@@ -162,8 +162,12 @@ h1 {
     color: #dad3b1;
 }
 
+h3 {
+    color: #dad3b1;
+}
+
 .header {
-    font-family: Comic sans;
+    font-family: Calibri;
     position: relative;
     display: table;
     width: 100%;
