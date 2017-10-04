@@ -158,6 +158,9 @@ hr.small {
 
 
 /* Header */
+h1 {
+    color: red;
+}
 
 .header {
     position: relative;
@@ -197,7 +200,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/main.jpg) no-repeat center center scroll;
+    background: url(../img/beach.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
