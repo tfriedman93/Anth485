@@ -185,15 +185,16 @@ h3 {
 /* About */
 
 .about {
+    font-family: Calibri;
     padding: 50px 0;
 }
 
 
-/* Services */
+/* Blog Posts */
 
-.services {
+.blog posts {
     padding: 50px 0;
-    background-color: #33cc33;
+    background-color: #659bae;
 }
 
 .service-item {
@@ -216,9 +217,10 @@ h3 {
 }
 
 
-/* Portfolio */
+/* Projects */
 
-.portfolio {
+.projects {
+    font-family: calibri;
     padding: 50px 0;
 }
 
