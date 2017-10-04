@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Calibri, Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .text-vertical-center {
@@ -159,11 +159,11 @@ hr.small {
 
 /* Header */
 h1 {
-    color: red;
+    color: #dad3b1;
 }
 
 .header {
-    font-family: Bombing (../fonts/Bombing.ttf);
+    font-family: Calibri;
     position: relative;
     display: table;
     width: 100%;
