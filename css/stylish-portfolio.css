@@ -163,7 +163,7 @@ h1 {
 }
 
 .header {
-    font-family: bombing.ttf;
+    font-family: Bombing (../fonts/Bombing.ttf);
     position: relative;
     display: table;
     width: 100%;
