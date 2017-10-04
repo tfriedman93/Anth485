@@ -177,7 +177,6 @@ h3 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-      background-color: #659bae;
  }
 
 
@@ -193,6 +192,20 @@ h3 {
 /* Blog Posts */
 
 .blog posts {
+    h2 {
+        color: #dad3b1;
+        font-family: Calibri;
+    }
+    
+    h4 {
+        color:#dad3b1;
+        font-family: Calibri;
+    }
+    p {
+        color: #dad3b1;
+        font-family: calibri;
+    }
+    
     padding: 50px 0;
     background-color: #659bae;
 }
@@ -219,8 +232,19 @@ h3 {
 
 /* Projects */
 
-.projects {
+.projects 
+
+h2{
+    color: #dad3b1;
     font-family: calibri;
+}
+
+p {
+    color:#dad3b1;
+    font-family: calibri;
+}
+
+{
     padding: 50px 0;
 }
 
@@ -267,7 +291,14 @@ h3 {
 
 /* Footer */
 
-footer {
+
+footer 
+h4 {
+    color: #dad3b1;
+    font-family: calibri;
+}
+
+{
     padding: 100px 0;
 }
 
