@@ -189,7 +189,7 @@ h3 {
 }
 
 
-/* Services */
+/* blog posts */
     h2 {
         color:  #dad3b1;
         font-family: Calibri;
@@ -209,12 +209,12 @@ h3 {
         font-family: calibri;
     }
 
-.services {
+.blog posts {
     padding: 50px 0;
     background-color: #659bae;
 }
 
-.service-item {
+.blog posts-item {
     margin-bottom: 30px;
 }
 
