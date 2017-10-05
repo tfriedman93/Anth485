@@ -246,6 +246,18 @@ p {
     font-family: calibri;
 }
 
+portfolio1.html {
+    h3{
+        color: grey;
+        font-family: calibri;
+    }
+    p{
+        color: grey;
+        font-family: calibri;
+    }
+}
+        
+
 .portfolio {
     padding: 50px 0;
 }
